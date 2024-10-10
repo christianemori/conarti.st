@@ -40,7 +40,7 @@ div.hot-links {
 ::-moz-selection,
 ::selection {
   color: var(--black);
-  background: var(--cyan);
+  background: var(--pink);
 }
 
 :root {
