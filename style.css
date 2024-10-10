@@ -40,7 +40,7 @@ div.hot-links {
 ::-moz-selection,
 ::selection {
   color: var(--black);
-  background: var(--pink);
+  background: var(--brat);
 }
 
 :root {
@@ -66,7 +66,7 @@ div.hot-links {
   ::-moz-selection,
   ::selection {
     color: var(--white);
-    background: var(#8ACE00);
+    background: var(--brat);
   }
 }
 
